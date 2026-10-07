@@ -6,6 +6,9 @@ An end-to-end **Computer Vision + Machine Learning inference system** for classi
 
 The project focuses not only on model accuracy, but also on **reproducibility, uncertainty detection, API inference, prediction traceability, data integrity, and production-oriented ML engineering**.
 
+<img width="5010" height="5605" alt="diagram" src="https://github.com/user-attachments/assets/a82d1fed-610d-4816-9285-fa5275da0817" />
+
+
 ---
 
 ## 🛠️ Tech Stack
