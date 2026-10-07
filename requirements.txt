@@ -1,0 +1,16 @@
+# --- Web / API ---
+fastapi==0.115.6
+uvicorn==0.32.1
+python-multipart==0.0.20
+
+# --- Model / inference ---
+torch==2.5.1
+torchvision==0.20.1
+
+# --- Classifier head / evaluation ---
+scikit-learn==1.5.2
+numpy==2.1.3
+pandas==2.2.3
+
+# --- Image handling ---
+pillow==11.0.0

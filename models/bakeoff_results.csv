@@ -1,0 +1,10 @@
+backbone,head,val_accuracy,val_macro_f1,fit_seconds
+squeezenet1_1,logreg,0.8987,0.8958,0.1
+mobilenet_v2,svm,0.8924,0.8899,19.6
+squeezenet1_1,mlp,0.8924,0.8895,0.2
+mobilenet_v2,mlp,0.8861,0.8843,0.2
+resnet18,svm,0.8861,0.8843,45.7
+resnet18,logreg,0.8861,0.8832,0.0
+resnet18,mlp,0.8861,0.8831,0.2
+mobilenet_v2,logreg,0.8861,0.8822,0.1
+squeezenet1_1,svm,0.8861,0.8809,42.9
